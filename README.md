@@ -1,7 +1,7 @@
 # machine_learning_python
 https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 
-## by Jason Brownlee on June 10, 2016 in Python Machine Learning
+by Jason Brownlee on June 10, 2016 in Python Machine Learning
 
 Do you want to do machine learning using Python, but you’re having trouble getting started?
 
